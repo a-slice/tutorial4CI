@@ -1,0 +1,18 @@
+package citutorialpackage;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
+public class TestCalc extends TestCase{
+
+    @Test
+    public void addition() {
+        assertEquals(2, Calc.add(1, 1));
+    }
+
+    @Test
+    public void subtraction() {
+        assertEquals(0, Calc.subtract(1, 1));
+    }
+
+
+}
