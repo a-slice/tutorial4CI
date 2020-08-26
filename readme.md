@@ -1,1 +1,1 @@
-https://travis-ci.com/a-slice/tutorial4ci.svg?branch=master
+[![Build Status](https://travis-ci.com/a-slice/tutorial4ci.svg?branch=master)](https://travis-ci.com/a-slice/tutorial4ci)
